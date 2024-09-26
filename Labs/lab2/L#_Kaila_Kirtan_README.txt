@@ -1,10 +1,10 @@
-# Activity / Lab / Assignment / Project Title
+# Activity / Lab / Assignment / Project Title - lecture7 Activity
 
 **[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
 
-* *Date Created*: 24 Sep 2024
-* *Last Modification Date*: 24 Sep 2024
-* *Lab URL*: <https://web.cs.dal.ca/~kaila/csci3172/lab2/>
+* *Date Created*: 26 Sep 2024
+* *Last Modification Date*: 26 Sep 2024
+* *Lab URL*: <https://web.cs.dal.ca/~kaila/csci3172/activities/lecture7/>
 
 ## Authors
 
