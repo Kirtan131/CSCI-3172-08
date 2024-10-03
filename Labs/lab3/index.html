@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab - 3</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head> 
+
+<body>
+
+    <script src="js/script.js"></script>
+    <div id="select">
+
+        <h1>Select a weekday</h1>
+
+        <select id = "weekdays" onchange="changeColor()">
+            <option value="Monday"> Monday</option>
+            <option value="Tuesday"> Tuesday</option>
+            <option value="Wednesday"> Wednesday</option>
+            <option value="Thursday"> Thursday</option>
+            <option value="Friday"> Friday</option>
+            <option value="Saturday"> Saturday</option>
+            <option value="Sunday"> Sunday</option>
+        </select>
+    </div>
+    <br>
+    <br>
+
+    <form id="numberForm" onsubmit="determine(event)" method="post">
+            <label for="number"> Enter any integer</label>
+            <input type="text" id="number" name="number"><br><br>
+            <input type="submit" value="Submit">
+    </form>
+    <br>
+    <div id="message"></div>
+</body>
+</html>
